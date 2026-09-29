@@ -1,4 +1,4 @@
-# Challenge 02 - Button Controlled LED
+# Challenge-02-Button Controlled LED
 
 ## Objective
 
