@@ -23,7 +23,7 @@ The LED turns ON for 1 second and then turns OFF for 1 second. This process repe
 
 ## Wokwi Simulation
 
-[View Wokwi Project](https://wokwi.com/projects/476294518279066625)
+https://wokwi.com/projects/476294518279066625
 
 ## Output
 
